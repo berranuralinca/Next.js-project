@@ -1,0 +1,10 @@
+.card {
+  width: 140px;
+  height: 70px;
+  background: rgb(217, 217, 217);
+  border: 1px solid #7b7a7a;
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
+}
+
